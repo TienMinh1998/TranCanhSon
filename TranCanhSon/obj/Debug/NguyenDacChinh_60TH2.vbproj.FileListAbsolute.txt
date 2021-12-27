@@ -1,0 +1,828 @@
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.exe
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.pdb
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.v17.1.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.v17.1.xml
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormMain.resources
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.Resources.resources
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.GenerateResource.Cache
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe.licenses
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.pdb
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormGioiThieu.resources
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThongSoDam.resources
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormNoiLucDam.resources
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormVatLieu.resources
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbprojResolveAssemblyReference.cache
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThepYeuCau.resources
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBoTriThep.resources
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\Interop.VDProLib5.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\AxInterop.VDProLib5.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\Interop.VDProLib5.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\AxInterop.VDProLib5.dll
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.ResolveComReference.cache
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBanVe.resources
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormHuongDan.resources
+D:\DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThuyetMinh.resources
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.exe
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.pdb
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.v17.1.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.v17.1.xml
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\Interop.VDProLib5.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\AxInterop.VDProLib5.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\Interop.VDProLib5.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\AxInterop.VDProLib5.dll
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.ResolveComReference.cache
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBanVe.resources
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBoTriThep.resources
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormGioiThieu.resources
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormHuongDan.resources
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormMain.resources
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormNoiLucDam.resources
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThepYeuCau.resources
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThongSoDam.resources
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThuyetMinh.resources
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormVatLieu.resources
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.Resources.resources
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.GenerateResource.Cache
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe.licenses
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.pdb
+D:\CViec\LAM\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbprojResolveAssemblyReference.cache
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\Interop.VDProLib5.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\AxInterop.VDProLib5.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.ResolveComReference.cache
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.pdb
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBanVe.resources
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBoTriThep.resources
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormGioiThieu.resources
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormHuongDan.resources
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormMain.resources
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormNoiLucDam.resources
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThepYeuCau.resources
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThongSoDam.resources
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThuyetMinh.resources
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormVatLieu.resources
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.GenerateResource.Cache
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.Resources.resources
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe.licenses
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.exe
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.pdb
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.v17.1.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.v17.1.xml
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\Interop.VDProLib5.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\AxInterop.VDProLib5.dll
+D:\2.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v1\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbprojResolveAssemblyReference.cache
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\Interop.VDProLib5.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\AxInterop.VDProLib5.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.ResolveComReference.cache
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.pdb
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbprojResolveAssemblyReference.cache
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBanVe.resources
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBoTriThep.resources
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormGioiThieu.resources
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormHuongDan.resources
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormMain.resources
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormNoiLucDam.resources
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThepYeuCau.resources
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThongSoDam.resources
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThuyetMinh.resources
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormVatLieu.resources
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.Resources.resources
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.GenerateResource.Cache
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe.licenses
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.exe
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.pdb
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.v17.1.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.v17.1.xml
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\Interop.VDProLib5.dll
+E:\DATN\NguyenDacChinh_60TH2_v2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\AxInterop.VDProLib5.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\Interop.VDProLib5.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\AxInterop.VDProLib5.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.ResolveComReference.cache
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.pdb
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.exe
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.pdb
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.v17.1.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.v17.1.xml
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\Interop.VDProLib5.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\AxInterop.VDProLib5.dll
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbprojResolveAssemblyReference.cache
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBanVe.resources
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBoTriThep.resources
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormGioiThieu.resources
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormHuongDan.resources
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormMain.resources
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormNoiLucDam.resources
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThepYeuCau.resources
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThongSoDam.resources
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThuyetMinh.resources
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormVatLieu.resources
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.Resources.resources
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.GenerateResource.Cache
+E:\DATN\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe.licenses
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\Interop.VDProLib5.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\AxInterop.VDProLib5.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.ResolveComReference.cache
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.pdb
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.exe
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.pdb
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.v17.1.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.v17.1.xml
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\Interop.VDProLib5.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\AxInterop.VDProLib5.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbprojResolveAssemblyReference.cache
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBanVe.resources
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBoTriThep.resources
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormGioiThieu.resources
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormHuongDan.resources
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormMain.resources
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormNoiLucDam.resources
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThepYeuCau.resources
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThongSoDam.resources
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThuyetMinh.resources
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormVatLieu.resources
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.Resources.resources
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.GenerateResource.Cache
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe.licenses
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.exe
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.pdb
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\Interop.VDProLib5.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\AxInterop.VDProLib5.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\Interop.VDProLib5.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\AxInterop.VDProLib5.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBanVe.resources
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBoTriThep.resources
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormGioiThieu.resources
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormHuongDan.resources
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormMain.resources
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormNoiLucDam.resources
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThepYeuCau.resources
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThongSoDam.resources
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThuyetMinh.resources
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormVatLieu.resources
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.Resources.resources
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe.licenses
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2_v7\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.pdb
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\Interop.VDProLib5.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\AxInterop.VDProLib5.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.pdb
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.exe
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.pdb
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\Interop.VDProLib5.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\bin\Debug\AxInterop.VDProLib5.dll
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBanVe.resources
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBoTriThep.resources
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormGioiThieu.resources
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormHuongDan.resources
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormMain.resources
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormNoiLucDam.resources
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThepYeuCau.resources
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThongSoDam.resources
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThuyetMinh.resources
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormVatLieu.resources
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.Resources.resources
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DATN_Tin\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe.licenses
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\Interop.VDProLib5.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\AxInterop.VDProLib5.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.ResolveComReference.cache
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.pdb
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.exe
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.pdb
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.v17.1.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.v17.1.xml
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\Interop.VDProLib5.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\AxInterop.VDProLib5.dll
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBanVe.resources
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBoTriThep.resources
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormGioiThieu.resources
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormHuongDan.resources
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormMain.resources
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormNoiLucDam.resources
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThepYeuCau.resources
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThongSoDam.resources
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThuyetMinh.resources
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormVatLieu.resources
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.Resources.resources
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.GenerateResource.Cache
+D:\3.DoAnTotNghiep\NguyenDacChinh_60TH2\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe.licenses
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbprojAssemblyReference.cache
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\Interop.VDProLib5.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\AxInterop.VDProLib5.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.ResolveComReference.cache
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBanVe.resources
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBoTriThep.resources
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormGioiThieu.resources
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormHuongDan.resources
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormMain.resources
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormNoiLucDam.resources
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThepYeuCau.resources
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThongSoDam.resources
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThuyetMinh.resources
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormVatLieu.resources
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.Resources.resources
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.GenerateResource.cache
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe.licenses
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.pdb
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.exe
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.pdb
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\Interop.VDProLib5.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\AxInterop.VDProLib5.dll
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.CoreCompileInputs.cache
+C:\Users\NguyenMinhTien\Desktop\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.CopyComplete
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.exe
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.pdb
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.v19.1.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Office.v19.1.Core.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Utils.v19.1.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraBars.v19.1.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Images.v19.1.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.v19.1.xml
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Office.v19.1.Core.xml
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Utils.v19.1.xml
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraBars.v19.1.xml
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\Interop.VDProLib5.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\AxInterop.VDProLib5.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbprojAssemblyReference.cache
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\Interop.VDProLib5.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\AxInterop.VDProLib5.dll
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.ResolveComReference.cache
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBanVe.resources
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBoTriThep.resources
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormGioiThieu.resources
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormHuongDan.resources
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormMain.resources
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormNoiLucDam.resources
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThepYeuCau.resources
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThongSoDam.resources
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThuyetMinh.resources
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormVatLieu.resources
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.Resources.resources
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.GenerateResource.cache
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe.licenses
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.CoreCompileInputs.cache
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.CopyComplete
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe
+E:\DATN_2019\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.pdb
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.exe
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\NguyenDacChinh_60TH2.pdb
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.v20.1.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Office.v20.1.Core.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Utils.v20.1.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraBars.v20.1.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.v20.1.xml
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Office.v20.1.Core.xml
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Utils.v20.1.xml
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraBars.v20.1.xml
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\Interop.VDProLib5.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\bin\Debug\AxInterop.VDProLib5.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.AssemblyReference.cache
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\Interop.VDProLib5.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\AxInterop.VDProLib5.dll
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.ResolveComReference.cache
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBanVe.resources
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormBoTriThep.resources
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormGioiThieu.resources
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormHuongDan.resources
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormMain.resources
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormNoiLucDam.resources
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThepYeuCau.resources
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThongSoDam.resources
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormThuyetMinh.resources
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.FormVatLieu.resources
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.Resources.resources
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.GenerateResource.cache
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe.licenses
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.CoreCompileInputs.cache
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.vbproj.CopyComplete
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.exe
+G:\DoANTOtNghiep2021\8. Đồ Án Mẫu VB NET Phần Dầm\NguyenDacChinh_60TH2_V8\NguyenDacChinh_60TH2\obj\Debug\NguyenDacChinh_60TH2.pdb
